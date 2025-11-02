@@ -1,4 +1,4 @@
-In this repositry, there is a script named "Ransomware.py". This is a script which is a fake ransomware which is totally harmless, and used for prank purposes. Don't use it on wrong places. So, in this README, we will talk about it and how to use it. If you are still thinking its harmful, you can check out the code and verify it.
+In this repository, there is a script named "Ransomware.py". This is a script which is a fake ransomware which is totally harmless, and used for prank purposes. Don't use it on wrong places. So, in this README, we will talk about it and how to use it. If you are still thinking its harmful, you can check out the code and verify it.
 
 **How to use it?**
 To use it, follow the instructions below:
